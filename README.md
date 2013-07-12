@@ -1,4 +1,4 @@
-JamminOnline
+Jammin' Online
 ============
 
 Jammin' Online is a web music score editor and player, maintained by a community of musician programmers, free for our fellow musician users.
